@@ -8,4 +8,6 @@ openai
 instructor
 urllib3
 pandas
+selenium
+
 
