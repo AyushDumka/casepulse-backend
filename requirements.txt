@@ -9,5 +9,6 @@ instructor
 urllib3
 pandas
 selenium
+playwright
 
 
