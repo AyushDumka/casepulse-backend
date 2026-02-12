@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+pdfplumber
+pydantic
+openai
+instructor
+urllib3

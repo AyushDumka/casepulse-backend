@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pdf
+cerc_cause_lists/
+monitor_data/
+downloaded_judgments/
+downloaded_causelists/
+nclat_pdfs/
+data/
+.env
+venv/
+
